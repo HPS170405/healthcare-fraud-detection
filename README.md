@@ -2,6 +2,10 @@
 
 A machine learning-powered web application for detecting fraudulent healthcare claims using XGBoost classification.
 
+## Live Demo
+
+- **Streamlit App:** https://healthcare-fraud-detection-ykangcysdfeaj4tg942yqk.streamlit.app/
+
 ## Features
 
 ✨ **Key Capabilities:**
